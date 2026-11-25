@@ -3,3 +3,8 @@
   Couleurs, polices et tailles de la maquette : voir style-guide.md
   Polices fournies : /assets/fonts (Work Sans)
 */
+
+.faq-layout {
+  width: calc(100% - 2rem);
+  max-width: 37.5rem;
+}
